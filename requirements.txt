@@ -1,0 +1,6 @@
+PyPDF2
+pdfplumber
+langchain
+pinecone
+sentence_transformers
+langchain-groq
